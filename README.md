@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Raskiller503's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raskiller503&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raskiller503)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuanru123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **liuyuanru123/liuyuanru123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
