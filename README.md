@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 福岡市.
 - 🔭 研究ではデータ分析、機械学習、ディープラーニング興味があります. 
 ### Tech Stack
-- ![Static Badge](https://img.shields.io/badge/python3-yello) ![Static Badge](https://img.shields.io/badge/linux-blue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2)
+- ![Static Badge](https://img.shields.io/badge/python3-yello) 
 - ![Static Badge](https://img.shields.io/badge/REST%20API-red) ![Static Badge](https://img.shields.io/badge/HTML-teal)
 - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
