@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
+![贪吃蛇贡献图](./dist/github-snake.svg)
+
 
