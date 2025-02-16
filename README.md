@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 ### Open access project
 - [画像分類 PyTorch プロジェクト](https://github.com/liuyuanru123/CNN_-PyTorch-)
-![贪吃蛇贡献图](./dist/github-snake.svg)
+- 
+
 
 
