@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ### Open access project
 - [画像分類 PyTorch プロジェクト](https://github.com/liuyuanru123/CNN_-PyTorch-)
-- 
+- [機械学習モデル（RF、XGBoost、ANN）アメリカの住宅価格予測モデル]
+  
 
 
 
