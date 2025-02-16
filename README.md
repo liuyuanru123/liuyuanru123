@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### I'm　Liuyuanru
 
 - 😄 修士課程 [九州大学大学院](https://www.kyushu-u.ac.jp/en/), [数理モデリング学研究室 ]([https://energy.arch.kyushu-u.ac.jp/index.html](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)).
-- 🌱 福岡市.
 - 🔭 研究ではデータ分析、機械学習、ディープラーニング興味があります. 
 ### Tech Stack
 - ![Static Badge](https://img.shields.io/badge/python3-yello) 
