@@ -1,7 +1,7 @@
 # Hi there, I'm Liuyuanru! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Enthusiast;Deep+Learning+Researcher;Data+Science+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%E7%A7%81%E3%81%AEGitHub%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%84%9B%E5%A5%BD%E8%80%85;%E3%82%B3%E3%83%BC%E3%83%89%E6%84%9B%E5%A5%BD%E8%80%85%EF%BC%86%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E8%80%85;%E5%B8%B8%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%BF%92%E4%B8%AD" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,10 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" 
+     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+     style="margin-top: -50px;">
+
 
 - 🎓 **修士課程学生** at [九州大学大学院](https://www.kyushu-u.ac.jp/en/)
 - 🔬 **研究室**: [数理モデリング学研究室](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)
