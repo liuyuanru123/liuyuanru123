@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🎓 **修士課程学生** at [九州大学大学院](https://www.kyushu-u.ac.jp/en/)
 - 🔬 **研究室**: [数理モデリング学研究室](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)
@@ -120,10 +120,69 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github.com/liuyuanru123/liuyuanru123/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=liuyuanru123&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 📦 Used in GitHub's Storage 
+ 
+> 🏆 Contributed to **X** public repositories 
+ 
+> 📜 **X** Public Repositories 
+ 
+> 🔑 **X** Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                ██████████░░░░░░░░░░░░░░░   40.0% 
+🌆 Daytime                █████████████░░░░░░░░░░░░   52.0% 
+🌃 Evening                ██░░░░░░░░░░░░░░░░░░░░░░░   08.0% 
+🌙 Night                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0%
+```
+
+**📅 I'm Most Productive on Tuesday** 
+
+```text
+Monday                   ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Tuesday                  ██████████░░░░░░░░░░░░░░░   40.0% 
+Wednesday                ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Thursday                 ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Friday                   ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Saturday                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0% 
+Sunday                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0%
+```
+
+**📊 This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Python                   ██████████████████░░░   72.0% 
+R                        ████████░░░░░░░░░░░░░░░   32.0% 
+C++                      ███░░░░░░░░░░░░░░░░░░░░   12.0% 
+JavaScript               ██░░░░░░░░░░░░░░░░░░░░░   08.0% 
+Markdown                 █░░░░░░░░░░░░░░░░░░░░░░   04.0%
+```
+
+<!--END_SECTION:waka-->
+
+</div>
+
+## 🎯 2024 Coding Journey
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuyuanru123&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
