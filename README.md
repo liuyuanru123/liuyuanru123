@@ -23,9 +23,9 @@
 
 - 🎓 **修士課程学生** at [九州大学大学院](https://www.kyushu-u.ac.jp/en/)
 - 🔬 **研究室**: [数理モデリング学研究室](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)
-- 🧠 **研究分野**: データ分析、機械学習、ディープラーニング
-- 🌱 **現在学習中**: 深層学習アルゴリズム、時系列予測モデル
-- 💡 **興味**: AI技術、データサイエンス、クラウドコンピューティング
+- 🧠 **研究分野**: アプリケーション開発、データ分析、機械学習、ディープラーニング
+- 🌱 **現在学習中**: 深層学習アルゴリズム、時系列予測モデル、
+- 💡 **興味**: AI技術、ソフトウェア開発、クラウドコンピューティング
 - 🌏 **言語**: 中国語(ネイティブ)、日本語(N2)、英語(TOEIC 805)
 - ⚡ **Fun fact**: プログラミングコンテストが大好きです！
 
@@ -83,7 +83,7 @@
 |-------------|------|-------------|
 | 🖼️ [画像分類 PyTorch プロジェクト](https://github.com/liuyuanru123/CNN_-PyTorch-) | CNNを使用した画像分類システム | Python, PyTorch, Computer Vision |
 | 💻[ Windows　Client　アプリケーション　プロジェクト](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | PyQt5ライブラリに基づくデスクトップアプリケーション | Python, PyQt5, Flash API |
-| 🌧️ [降雨予測システム](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | 深層学習による気象データ分析 | Python, TensorFlow, Time Series |
+| 🌧️ [降雨予測システム](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | 深層学習による気象データ分析 | Python, Pytorch, Time Series |
 | 💻 個人ポートフォリオサイト | レスポンシブWebサイト開発 | HTML, CSS, JavaScript |
 
 ---
