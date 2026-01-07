@@ -76,26 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liuyuanru123&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuanru123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liuyuanru123&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![CNN PyTorch Project](https://github-readme-stats.vercel.app/api/pin/?username=liuyuanru123&repo=CNN_-PyTorch-&theme=radical&hide_border=true)](https://github.com/liuyuanru123/CNN_-PyTorch-)
-
-</div>
 
 ### 🎯 主要プロジェクト
 
