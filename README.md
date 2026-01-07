@@ -104,12 +104,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liuyuanru123&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
 ## 📊 Weekly Development Breakdown
 
 <div align="center">
