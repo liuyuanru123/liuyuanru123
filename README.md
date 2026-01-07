@@ -102,6 +102,7 @@
 | プロジェクト | 説明 | 技術スタック |
 |-------------|------|-------------|
 | 🖼️ [画像分類 PyTorch プロジェクト](https://github.com/liuyuanru123/CNN_-PyTorch-) | CNNを使用した画像分類システム | Python, PyTorch, Computer Vision |
+| 💻[ Windows　Client　アプリケーション　プロジェクト](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP)
 | 🏠 機械学習モデル住宅価格予測 | RF、XGBoost、ANNを用いたアメリカの住宅価格予測 | Python, Scikit-learn, XGBoost |
 | 🌧️ 降雨予測システム | 深層学習による気象データ分析 | Python, TensorFlow, Time Series |
 | 💻 個人ポートフォリオサイト | レスポンシブWebサイト開発 | HTML, CSS, JavaScript |
