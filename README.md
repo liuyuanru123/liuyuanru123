@@ -1,9 +1,8 @@
 # Hi there, I'm Liuyuanru! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=%E7%A7%81%E3%81%AEGitHub%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%84%9B%E5%A5%BD%E8%80%85;%E3%82%B3%E3%83%BC%E3%83%89%E6%84%9B%E5%A5%BD%E8%80%85%EF%BC%86%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E8%80%85;%E5%B8%B8%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%8A%80%E8%A1%93%E3%82%92%E5%AD%A6%E7%BF%92%E4%B8%AD" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06141A&width=435&lines=%E7%A7%81%E3%81%AEGitHub%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81" alt="Typing SVG" /></a>
 </div>
-
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=liuyuanru123&color=brightgreen&style=flat-square)](https://github.com/liuyuanru123)
