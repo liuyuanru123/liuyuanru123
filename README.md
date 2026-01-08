@@ -80,10 +80,10 @@
 
 | プロジェクト | 説明 | 技術スタック |
 |-------------|------|-------------|
-| 🖼️ [画像分類 PyTorch プロジェクト](https://github.com/liuyuanru123/CNN_-PyTorch-) | CNNを使用した画像分類システム | Python, PyTorch, Computer Vision |
-| 💻[ Windows　Client　アプリケーション　プロジェクト](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | PyQt5ライブラリに基づくデスクトップアプリケーション | Python, PyQt5, Flash API |
+| 🖼️ [深層学習で画像分類手法](https://github.com/liuyuanru123/CNN_-PyTorch-) | CNNを使用した画像分類システム | Python, PyTorch, Computer Vision |
+| 💻 [降水量予測アプリ開発](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | PyQt5ライブラリに基づくデスクトップアプリケーション | Python, PyQt5, Flash API |
 | 🌧️ [降雨予測システム](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | 深層学習による気象データ分析 | Python, Pytorch, Time Series |
-| 💻 個人ポートフォリオサイト | レスポンシブWebサイト開発 | HTML, CSS, JavaScript |
+| 💻 [個人ポートフォリオサイト](https://github.com/liuyuanru123) | レスポンシブWebサイト開発 | HTML, CSS, JavaScript |
 
 ---
 
