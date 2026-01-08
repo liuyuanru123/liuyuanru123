@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" 
+<!-- <img align="right" alt="Coding" width="400" 
      src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-     style="margin-top: -50px;">
+     style="margin-top: -50px;"> -->
 
 
 - 🎓 **修士課程学生** at [九州大学大学院](https://www.kyushu-u.ac.jp/en/)
