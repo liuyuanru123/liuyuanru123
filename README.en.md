@@ -63,7 +63,7 @@ theory-oriented ML / DL research sharp and active.
 **2022 – 2025　／　Cram school**
 
 Taught TOEIC preparation — practical training in both language fluency and
-pedagogy. (Drawing on my own TOEIC experience: 805 [2020] / 770 [2025].)
+pedagogy. (Drawing on my own TOEIC 805 score, taken Jan 2020.)
 
 ### 🌿 Git / GitHub Repository Management
 **Ongoing　／　Research lab &amp; personal projects**
@@ -175,7 +175,7 @@ I work with intention across both research and engineering.
 
 - **Chinese** — Native
 - **Japanese** — JLPT N2
-- **English** — TOEIC 805 (2020) / 770 (2025)
+- **English** — TOEIC 805 (taken Jan 2020)
 
 ## 📫 Contact
 
