@@ -32,12 +32,6 @@ Beyond model development, I deliver research through **full end-to-end
 implementations** — including both web and desktop applications. I am currently
 preparing PhD program applications.
 
-## 📰 News
-
-- **May 2026** — Submitted manuscript *RainNet-MT* to *CMC – Computers, Materials & Continua*; currently under review.
-- **2026** — Preparing PhD program applications.
-- **Ongoing** — Continued development of the *RainNet-MT* web and desktop apps.
-
 ## 🎓 Education
 
 | Period | Affiliation |
@@ -45,6 +39,12 @@ preparing PhD program applications.
 | **2023.10 – 2025.09** | M.S. completed, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University<br />*Advisor: Assoc. Prof. Ton Viet Ta* |
 | **2022.10 – 2023.09** | Research Student, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University |
 | **2015.09 – 2019.06** | B.S. in Science, Department of Applied Statistics, College of Science, Changchun University, China |
+
+## 📰 News
+
+- **May 2026** — Submitted manuscript *RainNet-MT* to *CMC – Computers, Materials & Continua*; currently under review.
+- **2026** — Preparing PhD program applications.
+- **Ongoing** — Continued development of the *RainNet-MT* web and desktop apps.
 
 ## 🧑‍🏫 Part-time Experience
 
