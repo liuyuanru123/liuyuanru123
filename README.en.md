@@ -36,8 +36,8 @@ preparing PhD program applications.
 
 | Period | Affiliation |
 |---|---|
-| **2023.10 – 2025.09** | M.S. completed, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University<br />*Advisor: Assoc. Prof. Ton Viet Ta* |
-| **2022.10 – 2023.09** | Research Student, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University |
+| **2023.10 – 2025.09** | M.S. completed, **Department of Environmental Agriculture**, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University (Mathematical Modeling Lab)<br />*Advisor: Assoc. Prof. Ton Viet Ta* |
+| **2022.10 – 2023.09** | Research Student, Department of Environmental Agriculture, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University (Mathematical Modeling Lab) |
 | **2015.09 – 2019.06** | B.S. in Science, Department of Applied Statistics, College of Science, Changchun University, China |
 
 ## 🏆 Honors &amp; Awards
