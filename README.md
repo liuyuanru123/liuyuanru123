@@ -1,191 +1,179 @@
-# Hi there, I'm Liuyuanru! 👋
+<div align="right">
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=06141A&width=435&lines=%E7%A7%81%E3%81%AEGitHub%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81" alt="Typing SVG" /></a>
-</div>
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=liuyuanru123&color=brightgreen&style=flat-square)](https://github.com/liuyuanru123)
-[![GitHub followers](https://img.shields.io/github/followers/liuyuanru123?style=social)](https://github.com/liuyuanru123)
-[![GitHub stars](https://img.shields.io/github/stars/liuyuanru123?style=social)](https://github.com/liuyuanru123)
+**🇯🇵 日本語**　|　[English](README.en.md)
 
 </div>
 
----
+<h1 align="center">Yuanru&nbsp;Liu &nbsp;·&nbsp; <ruby>劉<rt>リュウ</rt></ruby> <ruby>淵茹<rt>エンジョ</rt></ruby></h1>
 
-## 🚀 About Me
-
-<!-- <img align="right" alt="Coding" width="400" 
-     src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
-     style="margin-top: -50px;"> -->
-
-
-- 🎓 **修士課程学生** at [九州大学大学院](https://www.kyushu-u.ac.jp/en/)
-- 🔬 **研究室**: [数理モデリング学研究室](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)
-- 🧠 **研究分野**: アプリケーション開発、データ分析、機械学習、ディープラーニング
-- 🌱 **現在学習中**: 深層学習アルゴリズム、時系列予測モデル
-- 💡 **興味**: AI技術、ソフトウェア開発、クラウドコンピューティング
-- 🌏 **言語**: 中国語(ネイティブ)、日本語(N2)、英語(TOEIC 805)
-- ⚡ **Fun fact**: プログラミングコンテストが大好きです！
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 プログラミング言語
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<p align="center">
+  <em>Master&apos;s Student · 九州大学大学院 生物資源環境科学府 · 数理モデリング学研究室</em><br />
+  深層学習 × 応用統計 ｜ 機械学習・深層学習の研究機会を求めて
 </p>
 
-### 🤖 機械学習・AI
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-### 🌐 Web開発
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
-</p>
-
-### 🗄️ データベース
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### ⚙️ ツール・環境
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<p align="center">
+  <a href="mailto:yuanruliu123@gmail.com">📧 Email</a>　·　
+  <a href="https://github.com/liuyuanru123">🐙 GitHub</a>　·　
+  <a href="https://liuyuanru123.github.io/">🌐 Website</a>
 </p>
 
 ---
 
+## 🙋 自己紹介
 
-### 🎯 主要プロジェクト
+九州大学大学院 生物資源環境科学府にて、**Ton Viet Ta 准教授**指導のもと
+[数理モデリング学研究室](https://www.agr.kyushu-u.ac.jp/lab/ta/members_ja.html)
+に所属する修士課程の学生です。学部では**応用統計学**を専攻し、現在は
+そのバックグラウンドを活かして**深層学習**による降雨予測・時系列データ
+解析に取り組んでいます。
 
-| プロジェクト | 説明 | 技術スタック |
-|-------------|------|-------------|
-| 🖼️ [深層学習で画像分類手法](https://github.com/liuyuanru123/CNN_-PyTorch-) | CNNを使用した画像分類システム | Python, PyTorch, Computer Vision |
-| 💻 [降水量予測アプリ開発](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | PyQt5ライブラリに基づくデスクトップアプリケーション | Python, PyQt5, Flash API |
-| 🌐 [Webアプリ制作](https://github.com/liuyuanru123/RainNet-MT-webapp)| Flaskを用いたPythonバックエンドとフロントエンドの連携開発 | HTML, CSS, JavaScript, Python（Flask） |
-| 🌧️ [降雨予測システム](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP) | 深層学習による気象データ分析 | Python, Pytorch, Time Series |
-| 💻 [個人ポートフォリオサイト](https://github.com/liuyuanru123) | レスポンシブWebサイト開発 | HTML, CSS, JavaScript |
+研究テーマの実装にとどまらず、**Web アプリ・デスクトップアプリ**まで
+含めたエンドツーエンドの開発経験を有しています。**機械学習および
+深層学習に関する研究機会**を広く求めており、博士課程への進学を
+準備中です。
+
+## 📰 最近の動向
+
+- **2026.05** — 論文 *RainNet-MT* を *CMC – Computers, Materials & Continua* に投稿、現在査読中。
+- **2026** — 機械学習・深層学習分野の博士課程プログラムへの出願準備中。
+- **継続中** — 降雨予測モデル *RainNet-MT* の Web / Desktop アプリケーション開発・改良。
+
+## 🎓 学歴
+
+| 期間 | 所属 |
+|---|---|
+| **2023.10 – 現在** | 修士課程, 九州大学大学院 生物資源環境科学府 数理モデリング学研究室<br />*指導教員: Ton Viet Ta 准教授* |
+| **2022.10 – 2023.09** | 研究生 (Research Student), 九州大学大学院 生物資源環境科学府 数理モデリング学研究室 |
+| **2015.09 – 2019.06** | 学士 (理学), 長春大学 (中国) 理学部　応用統計学科 |
+
+## 🧑‍🏫 アルバイト経験
+
+教える経験を通じて、**数学的基礎**と教育・コミュニケーション能力を実践的に磨いてきました。理論的な深層学習研究の土台として、今後も重視している部分です。
+
+### 📐 微分方程式 講師（院試対策）
+**2022 – 2025　／　私塾**
+
+日本の大学院入試（**院試**）レベルの **常微分方程式・偏微分方程式** を担当。
+学部の標準カリキュラムを超える内容を体系的に説明する経験により、
+深層学習の理論研究で必要となる **数学的基礎**（解析学・線形代数を含む）を
+実践的に維持・強化。
+
+### 🗣️ TOEIC 講師
+**2022 – 2025　／　私塾**
+
+TOEIC 受験対策を指導。語学運用力と教育・解説能力の両面を実践。
+（自身の TOEIC 805 取得経験を活かす。）
+
+### 🏪 セブン-イレブン（アルバイト）
+**2022 – 2025**
+
+接客・日常業務を通じた日本語の実務経験。
+
+## 📄 論文
+
+### 査読中 / Under Review
+
+1. **Yuanru Liu**, Ton Viet Ta. *RainNet-MT: A Multi-Task Deep Learning Framework for Simultaneous Rainfall Occurrence and Intensity Prediction.* Manuscript under review at *CMC – Computers, Materials & Continua*, 2026.
+
+## 🔬 研究関心
+
+- 深層学習・機械学習（特に**マルチタスク学習**）
+- 時系列・時空間データ予測
+- 応用統計学・データモデリング
+- 気象データ解析
+
+## 🎤 学会活動
+
+- **2024.11.28 – 12.01** — [The Workshop on Interdisciplinary Sciences (WIS 2024)](https://www.agr.kyushu-u.ac.jp/lab/ta/wis2024.html) ／ 九州大学 伊都キャンパス ＋ 九重共同研修所 ／ *聴講参加*（発表なし）
+- **2023.09.14 – 09.15** — [The Workshop on Interdisciplinary Sciences (WIS 2023)](https://www.agr.kyushu-u.ac.jp/lab/ta/wis2023.html) ／ 九州大学 伊都キャンパス ／ *聴講参加*（発表なし）
 
 ---
 
-## 🎓 Research & Experience
+## 💻 主要プロジェクト
 
-### 🔬 研究経験
-- **九州大学プログラミングコンテスト** - チームリーダーとして参加
-- **深層学習による降雨予測モデル開発** - RainNet-MTシステムの研究
-- **アプリ開発** - Webアプリ開発/デスクトップアプリ開発
-- **時系列データ分析** - 気象データの統計解析
+研究成果を**論文発表だけでなく実用化まで届ける**ことを意識しており、
+同一研究テーマに対して複数のフロントエンド（Web / Desktop）を実装しています。
 
-### 🏆 実績
-- 🥇 プログラミングコンテスト参加経験
-- 📊 3年間のPython開発経験
-- 🎯 2年間のR言語データ分析経験
-- 💻 総コード行数: 10,000行以上
+### 🌧️ RainNet-MT — マルチタスク深層学習による降雨予測
+
+> 修士研究のフラッグシップ・プロジェクト。降雨の**発生有無**と**降水強度**を
+> 単一モデルで同時に予測するマルチタスク深層学習フレームワークの提案・実装。
+> 論文を *CMC – Computers, Materials & Continua* 誌へ投稿（査読中）。
+
+**3 つの実装フォーム**を開発：
+
+- 🌐 **Web アプリケーション** — [`RainNet-MT-webapp`](https://github.com/liuyuanru123/RainNet-MT-webapp)<br />
+  Flask による Python バックエンドと HTML/CSS/JavaScript フロントエンドを REST API で連携。<br />
+  *Python · Flask · HTML/CSS/JavaScript · PyTorch*
+
+- 🖥️ **デスクトップアプリケーション** — [`RainNet-MT-rainfall-prediction-APP`](https://github.com/liuyuanru123/RainNet-MT-rainfall-prediction-APP)<br />
+  PyQt5 によるネイティブ GUI。学習済みモデルのロード、リアルタイム推論、結果可視化を統合。<br />
+  *Python · PyQt5 · PyTorch*
+
+- 📄 **論文**（査読中）— マルチタスク学習の損失設計と気象データへの適用。
+
+#### ☁️ AWS への本番デプロイ実装
+
+研究を**論文だけで終わらせず**、本番想定のクラウドシステムとして実装。
+**Amazon EC2** 上で **①Flask API → ②cron → ③Weather Data Fetcher → ④RainNet-MT 推論 → ⑤通知判断** の 5 段階パイプラインを稼働、
+**Amazon RDS (MySQL)** に予測結果を保存。
+**IoT センサー（雨量・水位・土壌）** からのリアルタイム観測と外部 Weather API (JMA / OpenWeather) を統合し、
+**Amazon SNS** 経由で自前の **Web / Desktop アプリ** に降雨通知を配信、
+**CloudWatch** で全プロセスをロギング。
+コスト最適化のため、後に **さくらのレンタルサーバ** へ一部を移行。
+
+`AWS EC2` · `RDS (MySQL)` · `CloudWatch` · `SNS` · `VPC` · `Flask` · `cron` · `IoT Sensors` · `Sakura Rental Server`
+
+### 🖼️ CNN による画像分類
+
+> PyTorch を用いた畳み込みニューラルネットワーク (CNN) の実装と学習。
+> データ前処理 → モデル設計 → 学習 → 評価のエンドツーエンドな機械学習パイプライン。
+
+[`CNN_-PyTorch-`](https://github.com/liuyuanru123/CNN_-PyTorch-) · *Python · PyTorch*
+
+### 🧂 塩生産プロセス・モニタリング (Arduino)
+
+> ハードウェア × 組込みシステムの練習プロジェクト。Arduino Uno で複数センサー（風速・気温・湿度・水温・電導率）を統合し、屋外塩田に設置して SD カードに記録するモニタリングシステム。
+
+*Arduino Uno · C++ · Sensors*
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 🛠️ スキル
 
-<div align="center">
-  
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+研究とエンジニアリングの両面にバランスよく取り組んでいます。
 
-> 📦 Used in GitHub's Storage 
- 
-> 🏆 Contributed to **X** public repositories 
- 
-> 📜 **X** Public Repositories 
- 
-> 🔑 **X** Private Repositories 
+### 🔬 研究・学術系
 
-**I'm an Early 🐤** 
+| カテゴリ | 内容 |
+|---|---|
+| **機械学習・深層学習** | PyTorch · TensorFlow · Keras · scikit-learn ／ マルチタスク学習・時系列モデル・CNN・GRU・Attention |
+| **データ分析・統計** | NumPy · Pandas · SciPy · statsmodels ／ 回帰分析・時系列分析・仮説検定・多変量解析・ベイズ統計 |
+| **データ可視化** | Matplotlib · Seaborn · Plotly · ggplot2 (R) |
 
-```text
-🌞 Morning                ██████████░░░░░░░░░░░░░░░   40.0% 
-🌆 Daytime                █████████████░░░░░░░░░░░░   52.0% 
-🌃 Evening                ██░░░░░░░░░░░░░░░░░░░░░░░   08.0% 
-🌙 Night                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0%
-```
+### ⚙️ エンジニアリング・開発系
 
-**📅 I'm Most Productive on Tuesday** 
+| カテゴリ | 内容 |
+|---|---|
+| **プログラミング言語** | **Python** (主力) · R · C / C++ · JavaScript · SQL · HTML / CSS |
+| **☁️ クラウド・インフラ** | **AWS**: EC2 · RDS (MySQL) · CloudWatch · SNS · VPC ／ **JP Cloud**: さくらのレンタルサーバ ／ Linux サーバー運用 · cron · 本番デプロイ · コスト最適化 |
+| **アプリ開発** | **Web**: Flask · REST API · HTML/CSS/JS ／ **Desktop**: PyQt5 ／ フロント・バックエンドの両方を一貫して開発可能 |
+| **データベース・ツール** | MySQL · SQLite ／ Git · GitHub · Linux · Conda · Jupyter · VS Code |
 
-```text
-Monday                   ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Tuesday                  ██████████░░░░░░░░░░░░░░░   40.0% 
-Wednesday                ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Thursday                 ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Friday                   ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Saturday                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0% 
-Sunday                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.0%
-```
+## 🌏 言語
 
-**📊 This Week I Spent My Time On** 
+- **中国語** — 母語
+- **日本語** — JLPT N2
+- **英語** — TOEIC 805
 
-```text
-🕑︎ Time Zone: Asia/Tokyo
+## 📫 連絡先
 
-💬 Programming Languages: 
-Python                   ██████████████████░░░   72.0% 
-R                        ████████░░░░░░░░░░░░░░░   32.0% 
-C++                      ███░░░░░░░░░░░░░░░░░░░░   12.0% 
-JavaScript               ██░░░░░░░░░░░░░░░░░░░░░   08.0% 
-Markdown                 █░░░░░░░░░░░░░░░░░░░░░░   04.0%
-```
+- 📧 yuanruliu123@gmail.com
+- 🐙 [github.com/liuyuanru123](https://github.com/liuyuanru123)
+- 🌐 [liuyuanru123.github.io](https://liuyuanru123.github.io/)
 
-<!--END_SECTION:waka-->
+---
 
+<div align="right">
+<sub><a href="README.en.md">English version →</a></sub>
 </div>
-
-## 🎯 2024 Coding Journey
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liuyuanru123&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuyuanru123)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yuanruliu123@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
-<img src="https://github.com/liuyuanru123/liuyuanru123/raw/main/assets/footer.gif" alt="Footer" width="100%"/>
-
-**Thanks for visiting my profile! 感謝您的訪問！ご訪問ありがとうございます！**
-
-</div>
-
----
-
-⭐️ From [liuyuanru123](https://github.com/liuyuanru123)
