@@ -7,8 +7,8 @@
 <h1 align="center">Yuanru&nbsp;Liu &nbsp;·&nbsp; <ruby>劉<rt>リュウ</rt></ruby> <ruby>淵茹<rt>エンジョ</rt></ruby></h1>
 
 <p align="center">
-  <em>Master&apos;s Student · Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University · Mathematical Modeling Lab</em><br />
-  Deep Learning × Applied Statistics ｜ Seeking research opportunities in ML / DL
+  <em>M.S., Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University · Mathematical Modeling Lab (Sept 2025)</em><br />
+  Deep Learning × Applied Statistics
 </p>
 
 <p align="center">
@@ -21,29 +21,28 @@
 
 ## 🙋 About Me
 
-I am a Master&apos;s student at the
+I **completed my M.S. in September 2025** at the
 [Mathematical Modeling Lab](https://www.agr.kyushu-u.ac.jp/lab/ta/),
 Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University,
-under the supervision of **Associate Professor Ton Viet Ta**. My undergraduate
-background is in **Applied Statistics**, and I now apply that foundation to
+under the supervision of **Associate Professor Ton Viet Ta**. With an undergraduate
+background in **Applied Statistics**, I have applied that foundation to
 **deep learning** for rainfall prediction and time-series data analysis.
 
 Beyond model development, I deliver research through **full end-to-end
-implementations** — including both web and desktop applications. I am actively
-**seeking research opportunities in machine learning and deep learning**, and
+implementations** — including both web and desktop applications. I am currently
 preparing PhD program applications.
 
 ## 📰 News
 
 - **May 2026** — Submitted manuscript *RainNet-MT* to *CMC – Computers, Materials & Continua*; currently under review.
-- **2026** — Preparing PhD applications in machine learning / deep learning.
+- **2026** — Preparing PhD program applications.
 - **Ongoing** — Continued development of the *RainNet-MT* web and desktop apps.
 
 ## 🎓 Education
 
 | Period | Affiliation |
 |---|---|
-| **2023.10 – Present** | M.S., Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University<br />*Advisor: Assoc. Prof. Ton Viet Ta* |
+| **2023.10 – 2025.09** | M.S. completed, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University<br />*Advisor: Assoc. Prof. Ton Viet Ta* |
 | **2022.10 – 2023.09** | Research Student, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University |
 | **2015.09 – 2019.06** | B.S. in Science, Department of Applied Statistics, College of Science, Changchun University, China |
 
@@ -65,6 +64,13 @@ theory-oriented ML / DL research sharp and active.
 
 Taught TOEIC preparation — practical training in both language fluency and
 pedagogy. (Leveraging my own TOEIC 805 score.)
+
+### 🌿 Git / GitHub Repository Management
+**Ongoing　／　Research lab &amp; personal projects**
+
+Continuously managed GitHub repositories for the lab&apos;s *RainNet-MT* and related projects —
+branching strategy, commit discipline, conflict resolution, and multi-account SSH workflow
+(personal + research).
 
 ### 🏪 7-Eleven — Part-time
 **2022 – 2025**
