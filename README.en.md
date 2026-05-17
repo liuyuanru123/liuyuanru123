@@ -65,13 +65,6 @@ theory-oriented ML / DL research sharp and active.
 Taught TOEIC preparation — practical training in both language fluency and
 pedagogy. (Drawing on my own TOEIC 805 score, taken Jan 2020.)
 
-### 🌿 Git / GitHub Repository Management
-**Ongoing　／　Research lab &amp; personal projects**
-
-Continuously managed GitHub repositories for the lab&apos;s *RainNet-MT* and related projects —
-branching strategy, commit discipline, conflict resolution, and multi-account SSH workflow
-(personal + research).
-
 ### 🏪 7-Eleven — Part-time
 **2022 – 2025**
 
@@ -160,7 +153,7 @@ I work with intention across both research and engineering.
 |---|---|
 | **ML &amp; Deep Learning** | PyTorch · TensorFlow · Keras · scikit-learn ／ Multi-task learning · time-series models · CNN · GRU · Attention |
 | **Data &amp; Statistics** | NumPy · Pandas · SciPy · statsmodels ／ regression · time-series · hypothesis testing · multivariate · Bayesian |
-| **Visualization** | Matplotlib · Seaborn · Plotly · ggplot2 (R) |
+| **Visualization** | Matplotlib · Seaborn |
 
 ### ⚙️ Engineering &amp; Development
 
