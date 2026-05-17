@@ -40,6 +40,10 @@ preparing PhD program applications.
 | **2022.10 – 2023.09** | Research Student, Mathematical Modeling Lab, Graduate School of Bioresource and Bioenvironmental Sciences, Kyushu University |
 | **2015.09 – 2019.06** | B.S. in Science, Department of Applied Statistics, College of Science, Changchun University, China |
 
+## 🏆 Honors &amp; Awards
+
+- **2015 – 2018　／　Changchun University** — Awarded the **First-Class Scholarship** for three consecutive years (Department of Applied Statistics).
+
 ## 📰 News
 
 - **May 2026** — Submitted manuscript *RainNet-MT* to *CMC – Computers, Materials & Continua*; currently under review.
