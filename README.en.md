@@ -67,7 +67,7 @@ theory-oriented ML / DL research sharp and active.
 **2022 – 2025　／　Cram school**
 
 Taught TOEIC preparation — practical training in both language fluency and
-pedagogy. (Drawing on my own TOEIC 805 score, taken Jan 2020.)
+pedagogy. (Drawing on my own TOEIC 805 score, taken Nov 2021.)
 
 ### 🏪 7-Eleven — Part-time
 **2022 – 2025**
@@ -172,7 +172,7 @@ I work with intention across both research and engineering.
 
 - **Chinese** — Native
 - **Japanese** — JLPT N2
-- **English** — TOEIC 805 (taken Jan 2020)
+- **English** — TOEIC 805 (taken Nov 2021)
 
 ## 📫 Contact
 
